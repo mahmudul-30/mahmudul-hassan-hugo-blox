@@ -30,7 +30,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mahmuduljucse30@gmail.com'
+    url: 'mailto: mahmuduljucse30@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -40,10 +40,10 @@ profiles:
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -57,25 +57,25 @@ education:
     date_end: 2026-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: HSC
     institution: Dhaka City College
     date_start: 2018-07-06
     date_end: 2020-12-31
     summary: |
-      # GPA: 3.8/4.0
+      GPA: 5.00/5.00
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - Physics
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: SSC
     institution: Birganj Pilot Govt. High School
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    # summary: |
       # GPA: 3.4/4.0
       
       # Courses included:
@@ -142,11 +142,13 @@ education:
 
 languages:
   - name: English
+    percent: 80
+  - name: Bangla
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Arabic
+    percent: 50
+  - name: Hindi
+    percent: 50 
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
