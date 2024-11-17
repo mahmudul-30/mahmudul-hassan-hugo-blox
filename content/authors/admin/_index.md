@@ -69,8 +69,9 @@ education:
 
       Courses included:
       - Physics
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Chemistry
+      - Mathematics
+      -Biology
   - area: SSC
     institution: Birganj Pilot Govt. High School
     date_start: 2016-01-01
