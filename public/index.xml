@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Technical Documentation and Product Landing</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Technical Documentation Page&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -107,19 +115,11 @@
     </item>
     
     <item>
-      <title>PyTorch</title>
+      <title>Survey Form</title>
       <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is Survey Form project&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -145,7 +145,7 @@
 
 
 
-&lt;div id=&#34;chart-162739458&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-216879453&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -163,7 +163,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-162739458&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-216879453&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -19,7 +19,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
+# Role/position/tagline:
 role: Web developer
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,9 +37,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/Md.Mahmudul Hassan
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mahmudul-30
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https:https://www.linkedin.com/in/mahmudul-hassan-830057256/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -51,7 +51,7 @@ interests:
   - Software Engineering
 
 education:
-  - area: CSE
+  - area: Studies at Department of Computer Science and Engineering 
     institution: Jahangirnagar University
     date_start: 2022-01-01
     date_end: 2026-12-31
@@ -60,7 +60,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: HSC
+  - area: Higher Secondary Education
     institution: Dhaka City College
     date_start: 2018-07-06
     date_end: 2020-12-31
@@ -72,7 +72,7 @@ education:
       - Chemistry
       - Mathematics
       -Biology
-  - area: SSC
+  - area: Secondary Education
     institution: Birganj Pilot Govt. High School
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -185,4 +185,4 @@ languages:
 
 ## About Me
 
-I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development, neural networks, and software engineering. I thrive on solving complex problems and contributing to innovative projects in technology. Beyond academics, I am an avid cricket player, an outdoor enthusiast who enjoys hiking, and a traveler with a keen interest in exploring new cultures and landscapes. My dynamic blend of technical expertise and adventurous spirit drives my commitment to continuous learning and growth, both personally and professionally.
+I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development, neural networks, and software engineering. I thrive on solving complex problems and contributing to innovative projects in technology. Beyond academics, I am an avid cricket player, an outdoor enthusiast who enjoys hiking  and a traveler with a keen interest in exploring new cultures and landscapes. My dynamic blend of technical expertise and adventurous spirit drives my commitment to continuous learning and growth, both personally and professionally.
