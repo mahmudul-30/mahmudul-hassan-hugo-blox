@@ -39,7 +39,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/mahmudul-30
   - icon: brands/linkedin
-    url: https:https://www.linkedin.com/in/mahmudul-hassan-830057256/
+    url: https://www.linkedin.com/in/mahmudul-hassan-830057256/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid

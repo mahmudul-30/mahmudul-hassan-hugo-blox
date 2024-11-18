@@ -13,11 +13,27 @@
     </image>
     
     <item>
-      <title>Technical Documentation and Product Landing</title>
+      <title>Portfolio Page</title>
+      <link>http://localhost:1313/project/portfolio/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfolio/</guid>
+      <description>&lt;p&gt;Portfolio Page&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation and Product Landing Page</title>
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;Technical Documentation Page&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;Ada Lovelace  known for her work on Charles Babbage&amp;rsquo;s early mechanical general-purpose computer, the Analytical Engine.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,14 +50,6 @@
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;Tic-Tac-Toe is a simple two-player game played on a 3x3 grid. Each player takes turns marking a cell on the grid with their symbol—usually X or O.It&amp;rsquo;s a fun and quick game that tests strategy and foresight!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/project/tribute/tribute/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/tribute/tribute/</guid>
-      <description></description>
     </item>
     
   </channel>
