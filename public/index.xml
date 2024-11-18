@@ -13,11 +13,27 @@
     </image>
     
     <item>
-      <title>Technical Documentation and Product Landing</title>
+      <title>Portfolio Page</title>
+      <link>http://localhost:1313/project/portfolio/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/portfolio/</guid>
+      <description>&lt;p&gt;Portfolio Page&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation and Product Landing Page</title>
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;Technical Documentation Page&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/tribute/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute/</guid>
+      <description>&lt;p&gt;Ada Lovelace  known for her work on Charles Babbage&amp;rsquo;s early mechanical general-purpose computer, the Analytical Engine.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -59,7 +75,7 @@
 
 
 
-&lt;div id=&#34;chart-691352748&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-724516983&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -77,7 +93,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-691352748&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-724516983&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

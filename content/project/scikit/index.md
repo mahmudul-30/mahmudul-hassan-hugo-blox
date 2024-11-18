@@ -1,5 +1,5 @@
 ---
-title: Technical Documentation and Product Landing
+title: Technical Documentation and Product Landing Page
 date: 2024-10-26
 external_link: https://github.com/mahmudul-30/documentation
 tags:

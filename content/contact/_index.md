@@ -8,5 +8,4 @@ Feel free to reach out to me through any of the following methods:
 - 📱 Phone: 01797797805
 
 ---
-
-You can also fill out to get in touch directly!
+<!-- You can also fill out to get in touch directly! -->

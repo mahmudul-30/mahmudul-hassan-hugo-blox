@@ -115,6 +115,9 @@
     <loc>http://localhost:1313/post/get-started/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/project/tribute/tribute/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
