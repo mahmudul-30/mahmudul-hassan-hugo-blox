@@ -53,8 +53,8 @@ interests:
 education:
   - area: Studies at Department of Computer Science and Engineering 
     institution: Jahangirnagar University
-    date_start: 2022-01-01
-    date_end: 2026-12-31
+    date_start: 2022-03-01
+    date_end: 2026-06-30
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -63,7 +63,7 @@ education:
   - area: Higher Secondary Education
     institution: Dhaka City College
     date_start: 2018-07-06
-    date_end: 2020-12-31
+    date_end: 2020-12-30
     summary: |
       GPA: 5.00/5.00
 
