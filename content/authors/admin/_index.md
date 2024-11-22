@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline:
-role: Web developer
+role: Tech enthusiastic
 # Organizations/Affiliations to display in Biography blox
 organizations:
   # - name: OpenAI
@@ -35,7 +35,7 @@ profiles:
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/Md.Mahmudul Hassan
+    url: https://www.instagram.com/mdmahmudulhassan.zihan
   - icon: brands/github
     url: https://github.com/mahmudul-30
   - icon: brands/linkedin
@@ -195,4 +195,4 @@ awards:
 
 ## About Me
 
-I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development, neural networks, and software engineering. I thrive on solving complex problems and contributing to innovative projects in technology. Beyond academics, I am an avid cricket player, an outdoor enthusiast who enjoys hiking  and a traveler with a keen interest in exploring new cultures and landscapes. My dynamic blend of technical expertise and adventurous spirit drives my commitment to continuous learning and growth, both personally and professionally.
+I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development, cyber security and software engineering. I thrive on solving complex problems and contributing to innovative projects in technology. Beyond academics, I am an avid cricket player, an outdoor enthusiast who enjoys hiking  and a traveler with a keen interest in exploring new cultures and landscapes. My dynamic blend of technical expertise and adventurous spirit drives my commitment to continuous learning and growth, both personally and professionally.
